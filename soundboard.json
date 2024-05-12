@@ -1,0 +1,50 @@
+[
+    {
+        "name": "quack",
+        "sound_id": "1",
+        "volume": 1,
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd86",
+        "user_id": "643945264868098049"
+    },
+    {
+        "name": "airhorn",
+        "sound_id": "2",
+        "volume": 1,
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udd0a",
+        "user_id": "643945264868098049"
+    },
+    {
+        "name": "cricket",
+        "sound_id": "3",
+        "volume": 1,
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd97",
+        "user_id": "643945264868098049"
+    },
+    {
+        "name": "golf clap",
+        "sound_id": "4",
+        "volume": 1,
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc4f",
+        "user_id": "643945264868098049"
+    },
+    {
+        "name": "sad horn",
+        "sound_id": "5",
+        "volume": 1,
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udfba",
+        "user_id": "643945264868098049"
+    },
+    {
+        "name": "ba dum tss",
+        "sound_id": "7",
+        "volume": 1,
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd41",
+        "user_id": "643945264868098049"
+    }
+]
