@@ -1,0 +1,17 @@
+[proxy]
+use_proxies = "n"            #proxy format: ip:port (no auth), user:pass@ip:port (auth)
+
+[visual]
+color = "blue"             #avaiable colors: w&b (white and black), blue, purple, orange, yellow, green, violet, red
+
+[performance]
+auto_login = "n"
+welcome_page = "y"
+
+[functions]
+separator = "->"              #example message: (separator is "/")   ->   SAPPHIRE ON TOP / @ping / aB3cD8eF2gH1iJ4kL6mN7oP9qR5sT0uVwXyZ
+hide_tokens = "y"            #if set to "y" sapphire will hide your tokens in output messages
+ratelimit_cooldown = "3"     #this stops your tokens from spamming if they get ratelimited   (set to 0 if you dont want to use)
+spammer_delay = "1"          #this helps to avoid tokens getting rate limited   (set to 0 if you dont want to use)
+
+
